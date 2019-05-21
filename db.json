@@ -1,12 +1,9 @@
 {
   "faked": {
-    "data": [
-      {
-        "id": 1,
-        "status": "Faked",
-        "applicationId": 1
-      }
-    ],
-    "time": ""
+    "data": {
+      "id": 1,
+      "status": "Faked",
+      "applicationId": 1
+    }
   }
 }
